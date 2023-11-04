@@ -1,14 +1,9 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[132] biber-MSWIN64:340> INFO - === 
-[173] Biber.pm:419> INFO - Reading 'main.bcf'
-[311] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
-[328] Biber.pm:4419> INFO - Processing section 0
-[341] Biber.pm:4610> INFO - Looking for bibtex file 'mall.bib' for section 0
-[383] bibtex.pm:1713> INFO - LaTeX decoding ...
-[390] bibtex.pm:1519> INFO - Found BibTeX data source 'C:\Code\IntelliJCode\Labrapport2\mall.bib'
-[439] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[439] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[439] Biber.pm:4239> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'sv-SE'
-[441] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[442] bbl.pm:763> INFO - Output to main.bbl
+[243] biber-MSWIN64:340> INFO - === 
+[315] Biber.pm:419> INFO - Reading 'main.bcf'
+[573] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[611] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[612] bbl.pm:763> INFO - Output to main.bbl
+[613] Biber.pm:131> WARN - The file 'main.bcf' does not contain any citations!
+[613] Biber.pm:133> INFO - WARNINGS: 1
