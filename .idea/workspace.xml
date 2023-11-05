@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af7e5e83-b5ec-47d9-8916-f3d347d3e13d" name="Changes" comment="Ändrade data och skrev en del på abstrakt">
+    <list default="true" id="af7e5e83-b5ec-47d9-8916-f3d347d3e13d" name="Changes" comment="Skrev på &quot;abstrakt&quot;, &quot;syfte och frågeställning&quot; och &quot;bakgrund och teori&quot; samt &quot;metod och materiel&quot;">
+      <change afterPath="$PROJECT_DIR$/images/fjäder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fjädergraf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lutandeplangraf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lutandeplangrej.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/main.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.aux" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/main.bbl" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.bbl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/main.bcf" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.bcf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.blg" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.blg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.out" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.out" afterDir="false" />
@@ -44,6 +46,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\IntelliJCode\Labrapport2\images" />
+    </key>
+  </component>
   <component name="RunManager" selected="LaTeX.main">
     <configuration default="true" type="BIBTEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
       <texify-bibtex>
@@ -161,11 +168,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1698225603780</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Skrev på &quot;abstrakt&quot;, &quot;syfte och frågeställning&quot; och &quot;bakgrund och teori&quot; samt &quot;metod och materiel&quot;">
+      <option name="closed" value="true" />
+      <created>1699133804514</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1699133804514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ändrade data och skrev en del på abstrakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ändrade data och skrev en del på abstrakt" />
+    <MESSAGE value="Skrev på &quot;abstrakt&quot;, &quot;syfte och frågeställning&quot; och &quot;bakgrund och teori&quot; samt &quot;metod och materiel&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skrev på &quot;abstrakt&quot;, &quot;syfte och frågeställning&quot; och &quot;bakgrund och teori&quot; samt &quot;metod och materiel&quot;" />
   </component>
 </project>
