@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.9)  5 NOV 2023 21:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.9)  6 NOV 2023 20:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -764,8 +764,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.108 
-       [1]
+l.105         \end{enumerate}
+                              [1]
 <images/lutandeplangrej.png, id=87, 800.9925pt x 473.77pt>
 File: images/lutandeplangrej.png Graphic file (type png)
 <use images/lutandeplangrej.png>
@@ -778,7 +778,7 @@ Package pdftex.def Info: images/fjäder.png  used on input line 118.
 (pdftex.def)             Requested size: 276.00105pt x 179.40393pt.
  [2 <./images/lutandeplangrej.png (PNG copy)> <./images/fjäder.png (PNG copy)>
 ]
-<images/lutandeplangraf.png, id=97, 754.82pt x 453.695pt>
+<images/lutandeplangraf.png, id=99, 754.82pt x 453.695pt>
 File: images/lutandeplangraf.png Graphic file (type png)
 <use images/lutandeplangraf.png>
 Package pdftex.def Info: images/lutandeplangraf.png  used on input line 175.
@@ -787,7 +787,7 @@ Package pdftex.def Info: images/lutandeplangraf.png  used on input line 175.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/fjädergraf.png, id=101, 754.82pt x 453.695pt>
+<images/fjädergraf.png, id=103, 754.82pt x 453.695pt>
 File: images/fjädergraf.png Graphic file (type png)
 <use images/fjädergraf.png>
 Package pdftex.def Info: images/fjädergraf.png  used on input line 228.
@@ -795,11 +795,8 @@ Package pdftex.def Info: images/fjädergraf.png  used on input line 228.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3] [4 <./images/lutandeplangraf.png>]
-
-LaTeX Warning: Empty bibliography on input line 240.
-
-[5 <./images/fjädergraf.png>] (C:/Code\IntelliJCode\Labrapport2\out\main.aux)
+[3] [4 <./images/lutandeplangraf.png>] [5 <./images/fjädergraf.png>]
+(C:/Code\IntelliJCode\Labrapport2\out\main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -811,33 +808,36 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17697 strings out of 475248
- 313552 string characters out of 5753565
- 1931785 words of memory out of 5000000
- 38985 multiletter control sequences out of 15000+600000
- 569186 words of font info for 60 fonts, out of 8000000 for 9000
+ 17918 strings out of 475248
+ 317962 string characters out of 5753565
+ 1932785 words of memory out of 5000000
+ 39202 multiletter control sequences out of 15000+600000
+ 570545 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,81p,1200b,1921s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
-i600\ecbx1440.pk> <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\oscar.tafvelin\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\oscar.
-tafvelin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <
+i600\eccc1000.pk> <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\oscar.tafvelin\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\oscar.
+tafvelin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <
 C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
-\ecbx2074.pk> <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
-appen/ec/dpi600\ecrm1728.pk> <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\font
-s/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Users/oscar.tafvelin/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/oscar.ta
-fvelin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-C:/Users/oscar.tafvelin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Users/oscar.tafvelin/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr7.pfb><C:/Users/oscar.tafvelin/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on C:/Code\IntelliJCode\Labrapport2\out\main.pdf (8 pages, 22307
-5 bytes).
+\ectt1200.pk> <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
+appen/ec/dpi600\ecrm1200.pk> <C:\Users\oscar.tafvelin\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\oscar.tafvelin\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\oscar.tafv
+elin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Us
+ers/oscar.tafvelin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb><C:/Users/oscar.tafvelin/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi7.pfb><C:/Users/oscar.tafvelin/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/oscar.tafvelin/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/oscar.t
+afvelin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+>
+Output written on C:/Code\IntelliJCode\Labrapport2\out\main.pdf (8 pages, 23373
+6 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
+ 447 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
  90 words of extra memory for PDF output out of 10000 (max. 10000000)
 
